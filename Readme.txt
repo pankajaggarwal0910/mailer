@@ -1,4 +1,4 @@
-This is the jsp based project.
+This is the jsp based project, something like a clone of gmail.
 
 All .jsp file placed publically.
 
